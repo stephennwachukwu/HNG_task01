@@ -38,6 +38,9 @@ This script simplifies the process of managing users and groups on a Linux syste
 
 For more information about the HNG Internship and opportunities it offers, please visit the [HNG Internship page](https://hng.tech/internship) and learn about the [premium services](https://hng.tech/premium) provided.
 
+Dev.to Link: [BLOG Link](https://dev.to/stephennwac007/linux-user-creation-bash-script-3hki)
+
+
 ### THANK YOU HNG FOR THE OPPORTUNITY!!!
 
 ---
